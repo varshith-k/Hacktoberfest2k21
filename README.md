@@ -1,6 +1,7 @@
 # Hacktoberfest2k21
 # Participants of Hacktoberfest Event at IIIT Sri City
 
+![Screenshot 2021-09-29 at 12 29 41 AM](https://user-images.githubusercontent.com/29686102/135149193-d87a9188-6b54-4839-80dd-48d2a4983a80.png)
 
 **Only PRs from the students from IIIT Sri City are allowed**
 
